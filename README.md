@@ -1,2 +1,2 @@
 # VREP-UR5-MATLAB
-A simple demo for using VREP &amp; MATLAB to control a UR5 robot
+A simple demo using VREP &amp; MATLAB to control a UR5 robot
